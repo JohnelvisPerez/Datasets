@@ -1,7 +1,7 @@
 """
 Imaginemos que estamos trabajando con datos de ventas, donde cada registro tiene información sobre el producto,
 la cantidad vendida, y el precio. Usamos clases para estructurar los datos y realizar cálculos como el total de
-ventas.
+ventas. XD
 """
 
 class Producto:
